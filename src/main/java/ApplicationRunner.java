@@ -1,6 +1,6 @@
 
 public class ApplicationRunner {
     public static void main(String[] args) {
-        System.out.println("PLEASE WORK!");
+        System.out.println("Hibernate test!");
     }
 }
