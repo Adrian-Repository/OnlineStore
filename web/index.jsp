@@ -11,6 +11,17 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <h1> ${message}</h1>
+  <form method="POST" action="logare">
+    Name: <input type="text" name="name"><br>
+    Parola: <input type="text" name="parola"><br>
+    <input type="submit" value="logare">
+  </form>
   </body>
+<body>
+<form method="POST" action="Register">
+  <input type="submit" value="REGISTER">
+</form>
+</body>
 </html>
+
