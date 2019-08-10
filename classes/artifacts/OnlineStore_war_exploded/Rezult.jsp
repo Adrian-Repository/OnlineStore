@@ -19,7 +19,7 @@
     <input type="submit" value="Search">
 </form>
 <form method="POST" action="Filtre">
-    <input type="submit" value="Filtre">
+    <input type="submit" value="Filtreza">
 </form>
 </body>
 </html>
